@@ -1,6 +1,6 @@
 # python-api-challenge  
 
- <span style="color: pink;">***I uploaded images of maps to show working maps and updated leged with hotel name and country. Maps are not showing in notebook when viewing github preview***</span>
+***I uploaded images of maps to show working maps and updated leged with hotel name and country. Maps are not showing in notebook when viewing github preview***
 
 ## Part 1: WeatherPy  
 
