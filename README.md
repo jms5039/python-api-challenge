@@ -1,9 +1,10 @@
 # python-api-challenge  
 
 ***I uploaded images of maps to show working maps and updated leged with hotel name and country. Maps are not showing in notebook when viewing github preview***  
+
 ![Map of City Data](https://github.com/jms5039/python-api-challenge/blob/main/city_data_df%20map.png)  
 ![Map of Hotel Data](https://github.com/jms5039/python-api-challenge/blob/main/hotel%20map.png)  
-![alt text](image.jpg)
+![Map Showing Updated Legend with Hotel Name and Country](https://github.com/jms5039/python-api-challenge/blob/main/hotel%20map%20hotel%20name%20and%20country%20hover%20message.png)
 
 ## Part 1: WeatherPy  
 
