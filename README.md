@@ -1,11 +1,10 @@
 # python-api-challenge  
 
+ <span style="color: pink;">***I uploaded images of maps to show working maps and updated leged with hotel name and country. Maps are not showing in notebook when viewing github preview***</span>
+
 ## Part 1: WeatherPy  
 
-In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python library
-Links to an external site., the OpenWeatherMap API  
-
-Links to an external site., and your problem-solving skills to create a representative model of weather across cities.  
+In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python library, the OpenWeatherMap API, and your problem-solving skills to create a representative model of weather across cities.  
 
 For this part, you'll use the WeatherPy.ipynb Jupyter notebook provided in the starter code ZIP file. The starter code will guide you through the process of using your Python coding skills to develop a solution to address the required functionalities.  
 
@@ -36,4 +35,21 @@ You should create the following plots:
     - Northern Hemisphere: Wind Speed vs. Latitude
     - Southern Hemisphere: Wind Speed vs. Latitude  
     
-After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
+After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.  
+
+
+## Part 2: VacationPy
+
+In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.  
+
+The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 is provided to help you get started.  
+
+Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.  
+
+To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the following steps:  
+
+    - Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.  
+    - Narrow down the city_data_df DataFrame to find your ideal weather condition.  
+    - Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
+    - For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
+    - Add the hotel name and the country as additional information in the hover message for each city on the map.
