@@ -1,6 +1,9 @@
 # python-api-challenge  
 
-***I uploaded images of maps to show working maps and updated leged with hotel name and country. Maps are not showing in notebook when viewing github preview***
+***I uploaded images of maps to show working maps and updated leged with hotel name and country. Maps are not showing in notebook when viewing github preview***  
+![Map of City Data](https://github.com/jms5039/python-api-challenge/blob/main/city_data_df%20map.png)  
+![alt text](image.jpg)  
+![alt text](image.jpg)
 
 ## Part 1: WeatherPy  
 
